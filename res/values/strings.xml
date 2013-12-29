@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Beerman</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">Login</string>
+    <string name="searcher">Picture recognizer</string>
+    <string name="description">Login</string>
+    <string name="title">BEERMAN</string>
+    <string name="home">Home</string>
+    <string name="search">Zoeken</string>
+    <string name="thirsty">Och, ik heb  gewoon dorst</string>
+    <string name="surroundings">Cafés in de buurt</string>
+    <string name="bier">Dit bier ben je aan het drinken, enjoy!</string>
+    <string name="alcohol">Alcohol percentage: </string>
+    <string name="soort">Bier soort: </string>
+    <string name="brouwerij">Brouwerij: </string>
+    <string name="beschrijving">Beschrijving: </string>
+    <string name="scan">Scannen</string>
+    <string name="register">Je gegevens werden niet gevonden. Wil je hiermee registreren?</string>
+    <string name="cancel">Liever niet!</string>
+    <string name="signin">Registreer</string>
+    <string name="loading">Aan het laden</string>
+    <string name="titel">Titel</string>
+    
+
+</resources>
